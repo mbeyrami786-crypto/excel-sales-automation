@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Generated reports (regenerate with `python main3.py`)
+output/*
+!output/.gitkeep
+
+# Old scripts and obsolete outputs — kept locally only
+archive/
+
+# Editors / OS
+.vscode/
+.idea/
+Thumbs.db
+
+# NOTE: input/sales.xlsx is sample data and IS tracked on purpose.
